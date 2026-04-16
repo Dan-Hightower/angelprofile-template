@@ -6,7 +6,7 @@ Your portfolio site reads live data from a Google Sheet. Follow these steps to s
 
 Open the template sheet and make a copy for yourself:
 
-**[Copy the template →](https://docs.google.com/spreadsheets/d/1_UipR3Mkd78kXcgQ_MSLS8irxR3BkO706TfxzElZnBs/copy)**
+**[Copy the template →](https://docs.google.com/spreadsheets/d/13JawrkWaZGT9PeXhLg82vq7I42Pd131U8j_MU6SKy_U/copy)**
 
 This gives you a sheet pre-formatted with the right columns and a sample profile tab.
 
