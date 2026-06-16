@@ -2,7 +2,9 @@
 
 A clean, forkable portfolio site for angel investors. Shows your investments live from a Google Sheet — no backend, no database, just a static HTML file you can deploy in minutes.
 
-**[Live example →](https://angelprofile.vercel.app)**
+Example:
+<img width="1676" height="2156" alt="image" src="https://github.com/user-attachments/assets/e3ac9610-a448-49f4-ad19-a65b6a6747d4" />
+
 
 ---
 
