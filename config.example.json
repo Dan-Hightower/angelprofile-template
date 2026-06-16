@@ -1,0 +1,22 @@
+{
+  "name": "Your Name",
+  "heroEyebrow": "Angel Investor",
+  "headline": "Your headline here.",
+  "tagline": "Your tagline here.",
+  "bio": "Your bio here. Supports <strong>HTML</strong>.",
+  "photo": "assets/photo.jpg",
+  "googleSheetId": "YOUR_GOOGLE_SHEET_ID",
+  "heroLinks": [
+    {
+      "label": "@YourHandle",
+      "url": "https://x.com/YourHandle"
+    }
+  ],
+  "sectors": [
+    "Sector 1",
+    "Sector 2",
+    "Sector 3"
+  ],
+  "showPortfolioHighlights": false,
+  "googleSheetUrl": "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/edit#gid=0"
+}
